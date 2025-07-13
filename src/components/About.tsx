@@ -80,8 +80,8 @@ const About = () => {
               </CardContent>
             </Card>
             
-            {/* Education */}
-            <Card className="border-0 bg-card/80 backdrop-blur-sm animate-slide-up">
+            
+          {/* <Card className="border-0 bg-card/80 backdrop-blur-sm animate-slide-up">
               <CardHeader>
                 <CardTitle className="text-xl flex items-center gap-2">
                   <GraduationCap className="w-5 h-5 text-primary" />
@@ -118,9 +118,9 @@ const About = () => {
                   </div>
                 </div>
               </CardContent>
-            </Card>
+            </Card>*/}
             
-            {/* Certifications */}
+            {/*
             <Card className="border-0 bg-card/80 backdrop-blur-sm animate-slide-up">
               <CardHeader>
                 <CardTitle className="text-xl">Certifications</CardTitle>
@@ -148,7 +148,7 @@ const About = () => {
                   </div>
                 </div>
               </CardContent>
-            </Card>
+            </Card>*/}
           </div>
         </div>
       </div>
